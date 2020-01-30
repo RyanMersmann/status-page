@@ -1,0 +1,49 @@
+.main{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  
+}
+
+h1{
+ font-size: 1.5rem;
+  color: rgb(189, 139, 202);
+}
+
+.subscribe-button{
+  padding: 2%;
+  background: rgb(52, 152, 219);
+  color: white;
+  border-radius:4px;
+  height: auto;
+  width: auto;
+  
+}
+
+.operation-status{
+  width: 100%;
+  background: rgb(47, 204, 102);
+  border-radius: 4px;
+  padding: 3%;
+}
+
+.component-container{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid grey;
+  padding: 2%;
+}
+
+.component-status{
+  color: rgb(47, 204, 102);
+}
+
+h3{
+  border-bottom: 1px solid grey;
+}
